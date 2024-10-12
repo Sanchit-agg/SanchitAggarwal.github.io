@@ -1,32 +1,10 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 💼 Portfolio Website
 
+Welcome to my personal portfolio website, showcasing my work, skills, and experience as a [your profession]. Key sections include:
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+- 📝 **About Me**: Learn more about my background, expertise, and career journey.
+- 💼 **Projects**: Explore a collection of my notable projects, complete with descriptions, technologies used, and links to live demos or repositories.
+- 📊 **Skills**: An overview of my technical and professional skills, including programming languages, frameworks, and tools.
+- 📞 **Contact**: Get in touch with me via email or social media.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Discover my work and let's connect!
